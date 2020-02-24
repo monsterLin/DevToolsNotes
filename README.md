@@ -12,3 +12,5 @@
 
 ### 安全
 - [`Github‘s`DrizzleDumper](https://github.com/DrizzleRisk/drizzleDumper)
+- [`Official`JEB Decompiler](https://www.pnfsoftware.com/)
+- [`Github's`Tool Gather](https://github.com/gchq/CyberChef/releases)
