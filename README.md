@@ -7,6 +7,8 @@
 ### 安全
 - [`FreeBuf's`一种常规Android脱壳技术的拓展](https://www.freebuf.com/sectool/105147.html)
 - [`GitBook's`安卓应用的安全和破解](https://crifan.github.io/android_app_security_crack/website/)
+- [`52PoJie's`Android逆向Hook学习 Xposed基础](https://www.52pojie.cn/thread-873013-1-1.html?tdsourcetag=s_pctim_aiomsg)
+- [`52PoJie's`Android逆向Hook学习 编写xposed模块](https://www.52pojie.cn/thread-850885-1-1.html)
 
 ## 工具
 
