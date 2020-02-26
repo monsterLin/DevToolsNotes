@@ -9,6 +9,7 @@
 - [`GitBook's`安卓应用的安全和破解](https://crifan.github.io/android_app_security_crack/website/)
 - [`52PoJie's`Android逆向Hook学习 Xposed基础](https://www.52pojie.cn/thread-873013-1-1.html?tdsourcetag=s_pctim_aiomsg)
 - [`52PoJie's`Android逆向Hook学习 编写xposed模块](https://www.52pojie.cn/thread-850885-1-1.html)
+- [`CSDN's` 针对360加固的classloader提取](https://blog.csdn.net/loevqian/article/details/89289974)
 
 ## 工具
 
