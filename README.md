@@ -18,3 +18,4 @@
 - [`Official`JEB Decompiler](https://www.pnfsoftware.com/) 反混淆工具
 - [`Github's`Tool Gather](https://github.com/gchq/CyberChef/releases) 工具集合，可自行搭建
 - [`52PoJie's`爱盘](https://down.52pojie.cn/) 在线破解工具包
+- [`Github's`Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) 集ApkTool ShakaApkTool工具与一身
