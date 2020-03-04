@@ -17,3 +17,4 @@
 - [`Github‘s`DrizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 脱壳工具源代码
 - [`Official`JEB Decompiler](https://www.pnfsoftware.com/) 反混淆工具
 - [`Github's`Tool Gather](https://github.com/gchq/CyberChef/releases) 工具集合，可自行搭建
+- [`52PoJie's`爱盘](https://down.52pojie.cn/) 在线破解工具包
